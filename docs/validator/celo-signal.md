@@ -19,9 +19,9 @@ ___
 * Owner who is Staking + Participating in Governance
 * Core Developer or Contributor
 
-Then Celo Signal Mailing List is a great way to keep up with everything happening in Celo's core community.
+The Celo Signal Mailing List is a great way to keep up with everything happening in Celo's core community.
 
-**Updates include information on following events:**
+**Updates include information on the following events which you can find on our [public calendar](https://calendar.google.com/calendar/u/0/embed?src=c_9su6ich1uhmetr4ob3sij6kaqs@group.calendar.google.com):**
 
 * Celo All-Core Dev Call (where Celo Platform enhancements and proposals are discussed in the community)
 * Celo Governance Call (where governance proposals are discussed prior to submission on-chain)
